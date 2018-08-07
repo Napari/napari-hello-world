@@ -1,0 +1,7 @@
+plugin_info:
+  author_name: 
+  author_email: 
+  plugin_title: Hello World Plugin Example
+  short_description: A Napari Plugin
+  plugin_name: hello_world
+  path: hello_world.py
